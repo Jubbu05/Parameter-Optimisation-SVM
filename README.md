@@ -59,4 +59,12 @@
 
 Graph of Accuracy per 1000 iterations for Sample 5:
 
-![alt text](https://github.com/UTK21/Parameter-optimisation-SVM/blob/main/screenshot.png)
+![alt text](https://github.com/Jubbu05/Parameter-Optimisation-SVM/blob/main/screenshot.png)
+
+## Writter By
+
+Name : Ayush Nagpure
+
+Roll No. : 102016100
+
+Sub-Group: 3CS10
